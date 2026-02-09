@@ -3,7 +3,7 @@
 Aplicación web desarrollada en 2024 para el proyecto final del certificado IFCD0210 que simula una tienda de ropa (e-commerce) con catálogo, autenticación de usuarios y área de administración. Proyecto orientado a practicar PHP + MySQL en entorno local con XAMPP.
 
 ## Descripción
-El proyecto permite navegar por diferentes secciones de productos, acceder a páginas de categoría, filtrar por nombre, tipo de producto y gestionar favoritos. Incluye sistema de login/registro, y el registro almacena contraseñas aplicando hashing. Ademas desde el perfil de administrador podremos añadir archivos a la base de datos directamente desde el panel.
+Proyecto totalmente responsive que permite navegar por distintas secciones de productos, acceder a páginas por categoría y aplicar filtros por nombre y tipo de producto. Incluye un sistema de login/registro, donde las contraseñas se almacenan aplicando hashing. Además, desde el perfil de administrador se dispone de un panel para gestionar el contenido añadir productos a la base de datos desde la propia interfaz y realizar operaciones CRUD sobre los productos y los usuarios de la web.
 
 No utiliza arquitectura MVC; la estructura está organizada por páginas PHP y componentes reutilizables (header/footer/nav).
 
