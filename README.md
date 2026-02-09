@@ -1,4 +1,4 @@
-# Clothing Store (2024)
+<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/3fd80432-d40e-4c4d-aa99-17f7b8175fe7" /># Clothing Store (2024)
 
 Aplicación web desarrollada en 2024 para el proyecto final del certificado IFCD0210 que simula una tienda de ropa (e-commerce) con catálogo, autenticación de usuarios y área de administración. Proyecto orientado a practicar PHP + MySQL en entorno local con XAMPP.
 
@@ -50,6 +50,36 @@ URL de entrada:
 - `http://localhost/clothing_store/principal.php`
 
 ## Capturas de pantalla
+## Capturas
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost.png" alt="Clothing Store - captura 0" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(1).png" alt="Clothing Store - captura 1" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(2).png" alt="Clothing Store - captura 2" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(3).png" alt="Clothing Store - captura 3" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(4).png" alt="Clothing Store - captura 4" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(5).png" alt="Clothing Store - captura 5" width="260">
+</p>
+
+<p align="center">
+  <img src="screenshots/iPhone-13-PRO-localhost(6).png" alt="Clothing Store - captura 6" width="260">
+</p>
+
 
 ## Notas
 Este repositorio forma parte de mi portfolio. El contenido y estructura están enfocados a práctica y aprendizaje en PHP/MySQL.
