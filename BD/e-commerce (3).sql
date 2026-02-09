@@ -105,8 +105,9 @@ CREATE TABLE `usuarios` (
 --
 
 INSERT INTO `usuarios` (`id_usuario`, `nombre_usuario`, `apellido_usuario`, `email`, `contraseña`, `tipo_usuario`, `estado`) VALUES
-(3, 'Maria', 'Acapulco', 'maria@gmail.com', 'd8578edf8458ce06fbc5bb76a58c5ca4', 'user', 'OK'),
-(4, 'Menji', 'Menjibar', 'cristianmenjibar@gmail.com', '25d55ad283aa400af464c76d713c07ad', 'administrador', 'OK');
+(1, 'Menji', 'Menjibar', 'cristianmenjibar@gmail.com', '25d55ad283aa400af464c76d713c07ad', 'administrador', 'OK'),
+(2, 'Cristina', 'Menjibar', 'cristina@gmail.com', '81dc9bdb52d04dc20036dbd8313ed055', 'user', 'OK');
+
 
 --
 -- Índices para tablas volcadas

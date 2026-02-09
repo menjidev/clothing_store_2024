@@ -42,6 +42,15 @@ include $pagina;
 include 'footer.php';
 echo '</div>';
 
+ if (isset($_POST['cerrarsesion'])){
+            session_destroy();
+            echo'
+            <script>
+            window.location.href = "principal.php?pagina=main";
+            </script>
+            ';
+        } 
+
 //SI DEJA DE FUNCIONAR QUITAR EL CIERRE DE CONEXION 
  mysqli_close($enlace);
 
