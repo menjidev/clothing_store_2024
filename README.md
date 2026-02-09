@@ -54,7 +54,7 @@ URL de entrada:
   <img src="images/screenshots/iPhone-13-PRO-localhost.png" alt="Clothing Store - captura 0" width="260">
   <img src="images/screenshots/iPhone-13-PRO-localhost (1).png" alt="Clothing Store - captura 1" width="260">
   <img src="images/screenshots/iPhone-13-PRO-localhost (2).png" alt="Clothing Store - captura 2" width="260">
-   <br>
+   <br> <br>
   <img src="images/screenshots/iPhone-13-PRO-localhost (3).png" alt="Clothing Store - captura 3" width="260">
   <img src="images/screenshots/iPhone-13-PRO-localhost (4).png" alt="Clothing Store - captura 4" width="260">
   <img src="images/screenshots/iPhone-13-PRO-localhost (5).png" alt="Clothing Store - captura 5" width="260">
