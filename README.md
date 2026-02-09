@@ -1,5 +1,3 @@
-<img width="1898" height="905" alt="image" src="https://github.com/user-attachments/assets/3fd80432-d40e-4c4d-aa99-17f7b8175fe7" /># Clothing Store (2024)
-
 Aplicación web desarrollada en 2024 para el proyecto final del certificado IFCD0210 que simula una tienda de ropa (e-commerce) con catálogo, autenticación de usuarios y área de administración. Proyecto orientado a practicar PHP + MySQL en entorno local con XAMPP.
 
 ## Descripción
